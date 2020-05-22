@@ -1,0 +1,14 @@
+C:\GitHub\SWC7\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\GitHub\SWC7\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\GitHub\SWC7\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\GitHub\SWC7\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\GitHub\SWC7\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\GitHub\SWC7\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\SWC7\Notes\Notes\Notes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\SWC7\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\GitHub\SWC7\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\GitHub\SWC7\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\GitHub\SWC7\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\SWC7\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\GitHub\SWC7\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\GitHub\SWC7\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
